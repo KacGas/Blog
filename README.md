@@ -4,7 +4,7 @@ This project is a Single Page Application (SPA) built using Java and Spring Boot
 
 ## Table of Contents
 * [Features](#features)
-* [Technologies Used](technologies-used)
+* [Technologies used](technologies-used)
 * [Setup](#setup)
 
 ## Features
