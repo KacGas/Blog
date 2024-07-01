@@ -20,8 +20,19 @@ Project is created with:
 * HTML/CSS/JavaScript: Frontend technologies
 
 ## Setup
-1. Clone the repository
+### 1. Clone the repository
 ```
 git clone https://github.com/yourusername/spa-project.git
 cd spa-project
+```
+2. Install Dependencies
+Ensure you have Maven and JDK 17 installed. Then, install the dependencies:
+```
+mvn clean install
+
+```
+3. Run the Application
+Start the Spring Boot application:
+```
+mvn spring-boot:run
 ```
