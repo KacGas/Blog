@@ -22,7 +22,7 @@ Project is created with:
 ## Setup
 ### 1. Clone the repository
 ```
-git clone https://github.com/yourusername/spa-project.git
+git clone git@github.com:KacGas/Single-Page-Application.git
 cd spa-project
 ```
 ### 2. Install Dependencies
