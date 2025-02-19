@@ -29,7 +29,6 @@ cd spa-project
 Ensure you have Maven and JDK 17 installed. Then, install the dependencies:
 ```
 mvn clean install
-
 ```
 ### 3. Run the Application
 Start the Spring Boot application:
