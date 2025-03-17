@@ -1,6 +1,6 @@
-# Single-Page-Application (SPA) Project
+# Blog website
 
-This project is a Single Page Application (SPA) built using Java and Spring Boot. The primary objective is to demonstrate a modern web application using Java 17.0.9 and Spring Boot 3.2.5, leveraging the powerful development tools provided by JetBrains.
+This project is a blog website built using Java and Spring Boot. The primary objective is to demonstrate a modern web application using Java 17.0.9 and Spring Boot 3.2.5, leveraging the powerful development tools provided by JetBrains.
 
 ## Table of Contents
 * [Features](#features)
@@ -22,7 +22,7 @@ Project is created with:
 ## Setup
 ### 1. Clone the repository
 ```
-git clone git@github.com:KacGas/Single-Page-Application.git
+git clone git@github.com:KacGas/Blog-website.git
 cd spa-project
 ```
 ### 2. Install Dependencies
